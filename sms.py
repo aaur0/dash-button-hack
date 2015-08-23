@@ -1,8 +1,8 @@
 from twilio.rest import TwilioRestClient
 
 # put your own credentials here
-ACCOUNT_SID = "ACee0b4908490e9c73d4d7cdbdd137aab1"
-AUTH_TOKEN = "b9506408de46a07c32d92c37a310d01d"
+ACCOUNT_SID = ""
+AUTH_TOKEN = ""
 
 
 def send(msg, recievers, sender="+12626313635"):
