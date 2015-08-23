@@ -6,7 +6,7 @@ from oauth2client.client import SignedJwtAssertionCredentials
 from sms import send
 import time
 
-path_to_key = '/Users/agupta/Downloads/dash-hack-d97e3300488b.json'
+path_to_key = 'dash-hack.json'
 path_to_google_doc = 'https://docs.google.com/spreadsheets/d/1lspOWRGh1W5LXML-z35ng4L-Oa6yweY0UD3-ytdy-pk/edit?usp' \
                      '=sharing'
 
