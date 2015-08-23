@@ -10,7 +10,7 @@ path_to_key = 'dash-hack.json'
 path_to_google_doc = 'https://docs.google.com/spreadsheets/d/1lspOWRGh1W5LXML-z35ng4L-Oa6yweY0UD3-ytdy-pk/edit?usp' \
                      '=sharing'
 
-watchers = ["+18055700763"]
+watchers = ["put your number here"]
 
 def auth_and_fetch():
     try:
